@@ -1,1 +1,1 @@
-# -mynt-cadetship-mlm-repo
+# mynt-cadetship-mlm-repo
